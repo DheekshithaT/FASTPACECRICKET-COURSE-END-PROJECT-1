@@ -1,0 +1,7 @@
+C:\Users\91807\Desktop\December\CourseEndProject1\CourseEndProject1\obj\Debug\CourseEndProject1.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\December\CourseEndProject1\CourseEndProject1\obj\Debug\CourseEndProject1.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\December\CourseEndProject1\CourseEndProject1\bin\Debug\CourseEndProject1.exe.config
+C:\Users\91807\Desktop\December\CourseEndProject1\CourseEndProject1\bin\Debug\CourseEndProject1.exe
+C:\Users\91807\Desktop\December\CourseEndProject1\CourseEndProject1\bin\Debug\CourseEndProject1.pdb
+C:\Users\91807\Desktop\December\CourseEndProject1\CourseEndProject1\obj\Debug\CourseEndProject1.exe
+C:\Users\91807\Desktop\December\CourseEndProject1\CourseEndProject1\obj\Debug\CourseEndProject1.pdb
