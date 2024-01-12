@@ -1,0 +1,2 @@
+Submission of Couse End Project-1: FastPaceCricket
+Program.cs contain the code file for the project. The code defines two classes: CricketPlayer and CricketTeam, The CricketPlayer class represents a player with properties like PlayerId, PlayerName, and PlayerAge. The Program class contains the main method and handles user interactions. It has methods to display a menu, enlist a player, expel a player, get player information by ID or name, and get all players. User input is validated to ensure it's the correct format.
